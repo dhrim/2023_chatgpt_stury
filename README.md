@@ -1,7 +1,9 @@
 # ChatGPT 스터디
 
+OpenAI의 Cookbook의 예제를 가지고 ChatGPT 사용법을 공부하자.
 
-# 2023/05 ChatGPT 스터디
+
+<br>
 
 # 일정
 https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4qyY/edit?usp=sharing
