@@ -5,7 +5,7 @@
 
 # 자료
 
-- ChatGPT 개요 : [5강.6강.딥러닝과_시계열데이터_자연어처리.pptx](5강.6강.딥러닝과_시계열데이터_자연어처리.pptx)
+- ChatGPT 개요 : [5강.6강.딥러닝과_시계열데이터_자연어처리.pptx](5강.6강.딥러닝과_시계열데이터_자연어처리.pptx)
 - OpenAI Cookbook [https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 - OpenAI API
     - home : [https://platform.openai.com/](https://platform.openai.com/)
