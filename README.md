@@ -40,5 +40,4 @@ https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4
 
 - OpenAI 계정/키 생성
 - 결제 정보 입력
-
-[OpenAI_계정_준비_실행_방법.pdf](OpenAI_계정_준비_실행_방법.pdf)
+- [OpenAI_계정_준비_실행_방법.pdf](OpenAI_계정_준비_실행_방법.pdf)
