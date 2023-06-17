@@ -36,6 +36,10 @@ https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4
 
 <br>
 
+- OpenAI API 실습자료 : [실습_2023-14-2.pptx](실습_2023-14-2.pptx)
+- [13.How to format inputs to ChatGPT models.pptx](13.How to format inputs to ChatGPT models.pptx)
+
+
 # 방법
 
 - 스터디 참석 인원이 자료의 cookbook의 노트북에서 하나를 골라 스터디 전에 실행 시켜보고 파악한다.
