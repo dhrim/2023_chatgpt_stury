@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4
 - ChatGPT 소개 : [ChatGPT_소개.pdf](ChatGPT_소개.pdf)
 - ChatGPT 구조 : [from_DNN_to_GPT.pptx](from_DNN_to_GPT.pptx)
 - [OpenAI_계정_준비_실행_방법.pdf](OpenAI_계정_준비_실행_방법.pdf)
-- [OpenAI_API_사용_기초.pdf](OpenAI_API_사용_기초.pdf)
+- [OpenAI_API_사용_기초.pdf](OpenAI_API_사용_기초.pdf)
 - OpenAI Cookbook [https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook)
     - 선별된 노트북
         - [How_to_format_inputs_to_ChatGPT_models.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb)
