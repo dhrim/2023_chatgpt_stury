@@ -41,6 +41,7 @@ https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4
 - OpenAI API 실습자료 : [실습_2023-14-2.pptx](실습_2023-14-2.pptx)
 - [13.How_to_format_inputs_to_ChatGPT_models.pptx](13.How_to_format_inputs_to_ChatGPT_models.pptx)
 - [Entity_extraction_for_long_documents_230628.pdf](Entity_extraction_for_long_documents_230628.pdf)
+- [translate_latex_book.ipynb](translate_latex_book.ipynb) 버그 픽스한
 
 <br>
 
