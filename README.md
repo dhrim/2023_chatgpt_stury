@@ -36,6 +36,8 @@ https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4
 
 <br>
 
+# 스터디 시의 자료
+
 - OpenAI API 실습자료 : [실습_2023-14-2.pptx](실습_2023-14-2.pptx)
 - [13.How_to_format_inputs_to_ChatGPT_models.pptx](13.How_to_format_inputs_to_ChatGPT_models.pptx)
 - [Entity_extraction_for_long_documents_230628.pdf](Entity_extraction_for_long_documents_230628.pdf)
