@@ -6,8 +6,8 @@ OpenAI의 Cookbook의 예제를 가지고 ChatGPT 사용법을 공부하자.
 <br>
 
 # 일정
-시즌1 : https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4qyY/edit?usp=sharing
-시즌2 : https://docs.google.com/spreadsheets/d/18vKYLHsYGst2qjnS7UvE9pmtO4OQdlSsXsrG_QFIxaw/edit?usp=sharing
+- 시즌1 : https://docs.google.com/spreadsheets/d/1-YLVHqFJY_vsncOwhWz78fmsNw2c7iCcLMbrcBc4qyY/edit?usp=sharing
+- 시즌2 : https://docs.google.com/spreadsheets/d/18vKYLHsYGst2qjnS7UvE9pmtO4OQdlSsXsrG_QFIxaw/edit?usp=sharing
 
 
 <br>
